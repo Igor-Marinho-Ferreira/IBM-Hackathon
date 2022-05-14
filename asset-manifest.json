@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/IBM-Hackathon/static/js/main.8bd40ef9.js",
+    "static/media/bg.png": "/IBM-Hackathon/static/media/bg.63086d9c2bdd1255b187.png",
+    "index.html": "/IBM-Hackathon/index.html",
+    "main.8bd40ef9.js.map": "/IBM-Hackathon/static/js/main.8bd40ef9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8bd40ef9.js"
+  ]
+}
