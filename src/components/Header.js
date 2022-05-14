@@ -1,11 +1,17 @@
 import React from 'react'
 import styled from 'styled-components';
 import bg from '../img/bg.png';
+import Navbar from './Navbar'
+import Layout from './Layout'
+
 
 
 function Header() {
     return (
         <HeaderStyled>
+            <Layout>
+                <Navbar />
+            </Layout>
             <div className="header-content">
             </div>
         </HeaderStyled>
