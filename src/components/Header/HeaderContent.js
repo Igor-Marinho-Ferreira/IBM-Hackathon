@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import RegistrationButton from '../Buttons/RegistrationButton';
 
 function HeaderContent() {
     return (
@@ -10,6 +11,7 @@ function HeaderContent() {
                     <p className="white">
                         Segundo texto
                     </p>
+                    <RegistrationButton name={'Register Now'}/>
                 </div>
             </div>
         </HeaderContentStyled>

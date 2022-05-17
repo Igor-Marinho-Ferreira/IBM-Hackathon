@@ -3,6 +3,7 @@ import React from 'react';
 import { Services, UseCases, Company } from '../Content';
 import { DropdownProvider, DropdownOption, DropdownRoot } from '../Dropdown';
 import { Container, DropdownStyles } from './styles';
+import SignUpButton from '../Buttons/SignUpButton'
 
 function Navbar() {
   return (
@@ -31,7 +32,8 @@ function Navbar() {
                 backgroundHeight={215}
               />
             </li>
-          </ul>
+            <SignUpButton name={'Sign Up'} />   
+          </ul>       
         </Container>
 
         <DropdownRoot />
