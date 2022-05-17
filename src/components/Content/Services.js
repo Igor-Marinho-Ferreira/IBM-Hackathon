@@ -9,8 +9,8 @@ export const Services = () => (
         <span className="payments" />
 
         <div>
-          <h3>Ainda não temos</h3>
-          <p>API</p>
+          <h3>Análises e relatórios</h3>
+          <p>Nossa API faz uso de tecnologias como Cloud e IA para</p>
         </div>
       </li>
       <li>
